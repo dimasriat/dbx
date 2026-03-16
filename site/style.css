@@ -23,6 +23,7 @@ pre {
   border: 1px solid black;
   padding: 16px;
   overflow-x: auto;
+  font-size: 14px;
 }
 
 blockquote {
